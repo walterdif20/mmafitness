@@ -1,0 +1,6 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Perfil del entrenador de kickboxing">
+  <rect width="800" height="600" fill="#111827"/>
+  <circle cx="400" cy="210" r="110" fill="#dc2626" opacity="0.9"/>
+  <rect x="255" y="330" width="290" height="180" rx="30" fill="#1f2937"/>
+  <text x="400" y="560" font-family="Arial, sans-serif" font-size="30" text-anchor="middle" fill="#f3f4f6">Luis Carabajal</text>
+</svg>
